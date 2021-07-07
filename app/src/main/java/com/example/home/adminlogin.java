@@ -48,7 +48,7 @@ public class adminlogin extends AppCompatActivity {
                     Toast.makeText(adminlogin.this, "Please Enter Password", Toast.LENGTH_SHORT).show();
                     return;
                 }
-                if(admin_mail.equals("a") && pswd.equals("b"))
+                if(admin_mail.equals("") && pswd.equals(""))
                 {
                     startActivity(new Intent(adminlogin.this,adminmenu.class));
                     finish();
