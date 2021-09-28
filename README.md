@@ -1,9 +1,6 @@
 # Coaching-Institute-Management
 ##Coaching Institute Management Android App
 
-<img src="/readme/app logo.png" align="left"
-width="200" hspace="10" vspace="10">
-
 ## 1. It is developed on Android studio and it uses Firebase for authentication, real-time database, and Storage.
 ## 2. Android app of a Coaching Institute to provide Notes, Test performance, Fees details for students.
 ## 3. This app is made for admin and students both so that admin can update details and students can fetch the details and assets.
@@ -24,12 +21,12 @@ The android app lets you:
 
 ## Screenshots
 
-[<img src="/readme/Wallabag%20Reading%20List.png" align="left"
+[<img src="/Readme_source/users.jpeg" align="left"
 width="200"
-    hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
-[<img src="/readme/Wallabag%20Article%20View.png" align="center"
+    hspace="10" vspace="10">](/Readme_source/users.jpeg)
+[<img src="/Readme_source/login.jpeg" align="center"
 width="200"
-    hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
+    hspace="10" vspace="10">](/Readme_source/login.jpeg)
 
 ## Permissions
 
