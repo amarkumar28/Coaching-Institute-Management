@@ -19,7 +19,7 @@ The android app lets you:
 - Admin can upload PDFs.
 - Notes, performance, fees details, user details everything is done using firebase cloud server and firebase realtime database.
 
-## Screenshots
+## STUDENT Screenshots
 
 [<img src="/Readme_source/users.jpeg" align="left"
 width="200"
@@ -27,7 +27,35 @@ width="200"
 [<img src="/Readme_source/login.jpeg" align="center"
 width="200"
     hspace="10" vspace="10">](/Readme_source/login.jpeg)
+[<img src="/Readme_source/registeration.jpeg" align="center"
+width="200"
+    hspace="10" vspace="10">](/Readme_source/registeration.jpeg)
+[<img src="/Readme_source/student_block.jpeg" align="center"
+width="200"
+    hspace="10" vspace="10">](/Readme_source/student_block.jpeg)
+[<img src="/Readme_source/student_details.jpeg" align="center"
+width="200"
+    hspace="10" vspace="10">](/Readme_source/student_details.jpeg)
+[<img src="/Readme_source/list_of_books.jpeg" align="center"
+width="200"
+    hspace="10" vspace="10">](/Readme_source/list_of_books.jpeg)
+[<img src="/Readme_source/forgot_password.jpeg" align="center"
+width="200"
+    hspace="10" vspace="10">](/Readme_source/forgot_password.jpeg)
+    
+## ADMIN Screenshots
 
+[<img src="/Readme_source/admin_block.jpeg" align="center"
+width="200"
+    hspace="10" vspace="10">](/Readme_source/admin_block.jpeg)
+[<img src="/Readme_source/admin_update_student.jpeg" align="center"
+width="200"
+    hspace="10" vspace="10">](/Readme_source/admin_update_student.jpeg)
+[<img src="/Readme_source/upload_notes.jpeg" align="center"
+width="200"
+    hspace="10" vspace="10">](/Readme_source/upload_notes.jpeg)
+    
+    
 ## Permissions
 
 this app requires the following permissions:
