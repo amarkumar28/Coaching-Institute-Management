@@ -1,5 +1,5 @@
 # Coaching-Institute-Management
-Coaching Institute Management Android App
+##Coaching Institute Management Android App
 
 <img src="/readme/app logo.png" align="left"
 width="200" hspace="10" vspace="10">
