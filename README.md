@@ -1,5 +1,4 @@
-# Coaching-Institute-Management
-##Coaching Institute Management Android App
+# Coaching-Institute-Management Android App
 
 ## 1. It is developed on Android studio and it uses Firebase for authentication, real-time database, and Storage.
 ## 2. Android app of a Coaching Institute to provide Notes, Test performance, Fees details for students.
@@ -23,25 +22,25 @@ The android app lets you:
 
 [<img src="/Readme_source/users.jpeg" align="left"
 width="200"
-    hspace="10" vspace="10">](/Readme_source/users.jpeg)
+    hspace="20" vspace="10">](/Readme_source/users.jpeg)
 [<img src="/Readme_source/login.jpeg" align="center"
 width="200"
-    hspace="10" vspace="10">](/Readme_source/login.jpeg)
+    hspace="20" vspace="10">](/Readme_source/login.jpeg)
 [<img src="/Readme_source/registeration.jpeg" align="center"
 width="200"
-    hspace="10" vspace="10">](/Readme_source/registeration.jpeg)
+    hspace="20" vspace="10">](/Readme_source/registeration.jpeg)
 [<img src="/Readme_source/student_block.jpeg" align="center"
 width="200"
-    hspace="10" vspace="10">](/Readme_source/student_block.jpeg)
+    hspace="20" vspace="10">](/Readme_source/student_block.jpeg)
 [<img src="/Readme_source/student_details.jpeg" align="center"
 width="200"
-    hspace="10" vspace="10">](/Readme_source/student_details.jpeg)
+    hspace="20" vspace="10">](/Readme_source/student_details.jpeg)
 [<img src="/Readme_source/list_of_books.jpeg" align="center"
 width="200"
-    hspace="10" vspace="10">](/Readme_source/list_of_books.jpeg)
+    hspace="20" vspace="10">](/Readme_source/list_of_books.jpeg)
 [<img src="/Readme_source/forgot_password.jpeg" align="center"
 width="200"
-    hspace="10" vspace="10">](/Readme_source/forgot_password.jpeg)
+    hspace="20" vspace="10">](/Readme_source/forgot_password.jpeg)
     
 ## ADMIN Screenshots
 
